@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\QuizTopEx\QuizTopEx\obj\Debug\QuizTopEx.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\QuizTopEx\QuizTopEx\obj\Debug\QuizTopEx.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\QuizTopEx\QuizTopEx\bin\Debug\QuizTopEx.exe.config
+C:\Users\DELL\source\repos\QuizTopEx\QuizTopEx\bin\Debug\QuizTopEx.exe
+C:\Users\DELL\source\repos\QuizTopEx\QuizTopEx\bin\Debug\QuizTopEx.pdb
+C:\Users\DELL\source\repos\QuizTopEx\QuizTopEx\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\source\repos\QuizTopEx\QuizTopEx\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\source\repos\QuizTopEx\QuizTopEx\obj\Debug\QuizTopEx.csproj.Up2Date
+C:\Users\DELL\source\repos\QuizTopEx\QuizTopEx\obj\Debug\QuizTopEx.exe
+C:\Users\DELL\source\repos\QuizTopEx\QuizTopEx\obj\Debug\QuizTopEx.pdb
